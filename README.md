@@ -18,6 +18,7 @@
   <img align="center" alt="Diesel-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Diesel-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  </div>
+  <img align="right" alt="diesel-rikizinho"src="https://picrew.me/shareImg/org/202207/238588_ZwEYima7.png"
 
 ##
 
