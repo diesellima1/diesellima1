@@ -18,9 +18,9 @@
   <img align="center" alt="Diesel-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Diesel-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  </div>
-  <img align="right" alt="diesel-rikizinho"height="130" width="140" src="https://picrew.me/shareImg/org/202207/238588_ZwEYima7.png"
-
-##
+<img alt="Rafa-pic" src="https://picrew.me/shareImg/org/202207/238588_ZwEYima7.png" data-canonical-src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&amp;height=676" style="max-width: 100%;" height="150" align="right">
+ 
+  ##
 
 <div> 
   <a href="https://www.instagram.com/diesellima1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
