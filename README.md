@@ -19,4 +19,13 @@
   <img align="center" alt="Diesel-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  </div>
 
+##
+
+<div> 
+  <a href="https://www.instagram.com/diesellima1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/adevilson-diesel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/diesellima1/diesellima1/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
 
