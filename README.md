@@ -17,7 +17,7 @@
   <img align="center" alt="Diesel-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Diesel-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Diesel-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div><img alt="Diesel-kz" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGvHIKEgctzsA/company-logo_200_200/0/1635528369344?e=1666828800&v=beta&t=BBZ1bGRzByKCi2Jq_fqDfW5tJ5EP6cmurtDpPy1SLl4"style="max-width: 100%;" height="150" align="right"<a href="https://github.com/https://kenzie.com.br/">>
+ </div><img alt="Diesel-kz" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGvHIKEgctzsA/company-logo_200_200/0/1635528369344?e=1666828800&v=beta&t=BBZ1bGRzByKCi2Jq_fqDfW5tJ5EP6cmurtDpPy1SLl4"style="max-width: 100%;" height="150" align="right">
 <img alt="Diesel-rikizinho" src="https://picrew.me/shareImg/org/202207/238588_ZwEYima7.png"style="max-width: 100%;" height="150" align="right">
   
  
@@ -30,4 +30,5 @@
  ![Snake animation](https://github.com/diesellima1/diesellima1/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+
 
