@@ -18,7 +18,6 @@
   <img align="center" alt="Diesel-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Diesel-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  </div>
-  </div>
   <img alt="Diesel-kz" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGvHIKEgctzsA/company-logo_200_200/0/1635528369344?e=1666828800&v=beta&t=BBZ1bGRzByKCi2Jq_fqDfW5tJ5EP6cmurtDpPy1SLl4"style="max-width: 100%;" height="150" align="right">
   <!--<a href="https://kenzie.com.br/">Site da Kenzie</a>-->
 <img alt="Diesel-rikizinho" src="https://picrew.me/shareImg/org/202207/238588_ZwEYima7.png"style="max-width: 100%;" height="150" align="right">
