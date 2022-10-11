@@ -2,6 +2,7 @@
 
 - 🔭🎓 Full Stack Web Development Student Brasil
 - 😎🎮 I’m currently learning learning about relationship and investigation in game The wicher ||| ¯\_(͡° ͜ʖ ͡°)_/¯ 
+Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara!
 
 <div align="center">
   <a href="https://github.com/diesellima1">
