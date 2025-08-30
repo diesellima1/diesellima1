@@ -2,7 +2,7 @@
 
 - 🔭🎓 Full Stack Web Development Student Brasil
 - 😎🎮 I’m currently learning learning about relationship and investigation in game The wicher ||| ¯\_(͡° ͜ʖ ͡°)_/¯  <br>
-Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara!
+Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara faculdade Anhanguera!
 
 <div align="center">
   <a href="https://github.com/diesellima1">
@@ -20,7 +20,8 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara!
   <!-- <img align="center" alt="Diesel-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
  </div>
  <a href="https://www.cursoemvideo.com/" target="_blank" rel="external"><img alt="Diesel-CV" src="https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s900-c-k-c0x00ffffff-no-rj"style="max-width: 100%;" height="150" align="right"></a>
-<img alt="Diesel-logoAnhanguera" src="https://drive.google.com/file/d/1a4rP2MBlBm0HRnPqYbIvTuPZqxSOCLPb/view?usp=sharing"style="max-width: 100%;" height="150" align="right">
+    <a href="https://www.anhanguera.com/" target="_blank" rel="external"><img alt="Diesel-CV" src="https://drive.google.com/file/d/1a4rP2MBlBm0HRnPqYbIvTuPZqxSOCLPb/view?usp=sharing"style="max-width: 100%;" height="150" align="right"></a>
+#<img alt="" src=""style="max-width: 100%;" height="150" align="right">
    
   ##
 
