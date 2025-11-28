@@ -44,6 +44,7 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
 </a>
 </div>
 
+## Connect with Me!
 <div>
   <a href="https://linkedin.com/in/adevilson-de-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
