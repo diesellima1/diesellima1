@@ -26,9 +26,9 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
 <div> 
  <a href="https://linkedin.com/in/adevilson-de-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- <a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"
-         alt="Perfil Microsoft Learn"
+ <a href="SUA_URL_DO_PERFIL_GOOGLE_SKILLS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
+         alt="Perfil Google Cloud Skills"
          style="width: 130px; height: auto;">
 </a>
     
