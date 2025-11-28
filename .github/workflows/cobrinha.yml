@@ -1,44 +1,44 @@
-# Nome da Ação que aparecerá na aba "Actions" do GitHub
-name: Snake Game
+name: generate animation
 
-# Controlador de tempo e gatilhos
 on:
-  # Será atualizado a cada 5 horas.
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */5 * * *"
-  # Permite execução manual na interface de Actions
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
-
-# Regras e Tarefas
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-
-    # 1. Checkout do Repositório (Permite acesso aos arquivos)
-    - uses: actions/checkout@v2
-
-    # 2. Geração da Animação da Cobrinha
-    - uses: Platane/snk@master
-      id: snake-gif
-      with:
-        # CORREÇÃO: Usa o seu nome de usuário para buscar a atividade
-        github_user_name: diesellima1 
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
-
-    # 3. Exibição do Status (Opcional, mas útil)
-    - run: git status
-
-    # 4. Push das Alterações para a Branch 'output'
-    # Esta seção do tutorial estava incorreta e foi substituída pela seção 5, que lida com a branch 'output'
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
     
-    # 5. Configuração da Branch de Saída (Output Branch)
-    - uses: crazy-max/ghaction-github-pages@v2
-      with:
-        # A branch de destino onde os arquivos .svg e .gif serão salvos
-        target_branch: output
-        build_dir: dist # A pasta onde o Platane/snk salvou os arquivos
-      env:
-        # Token de segurança fornecido pelo GitHub
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
