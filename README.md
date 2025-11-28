@@ -53,7 +53,6 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
 
 ![snake gif](https://github.com/diesellima1/diesellima1/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/diesellima1/diesellima1/output/github-contribution-grid-snake.svg)
 
 
 
