@@ -1,22 +1,5 @@
 ## Hi there Am I Adevilson de Lima or Diesel 👋 
-<p style="
-    font-size: 1.5em; /* Aumenta um pouco o tamanho da fonte */
-    font-weight: 800; /* Deixa a fonte mais grossa (bold) */
-    padding: 15px; 
-    border-radius: 12px; 
-    /* Gradiente vibrante que simula um brilho */
-    background: linear-gradient(135deg, #1e90ff 0%, #00FFFF 100%); 
-    color: white; 
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6); /* Sombra para destacar o texto */
-    /* Borda elegante */
-    border: 3px solid #00FFFF;
-    box-shadow: 0 0 20px rgba(0, 255, 255, 0.7), 0 0 10px rgba(30, 144, 255, 0.5); /* Sombra de brilho */
-    text-align: center;
-    letter-spacing: 1px;
-    margin-bottom: 20px;
-">
-    &bull; Multi-Cloud Certified &bull; Data Systems Engineer
-</p>
+
 🎓- Student of Computer Systems Development at Anhanguera University. I leverage my academic foundation to specialize in <br>
 ☁️- Cloud Data Engineering (Google/Microsoft), <br>
 📊- system optimization, and GenAI-assisted coding. Committed to building robust, high-performance data architectures.<br>
