@@ -26,12 +26,19 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
 <div> 
  <a href="https://linkedin.com/in/adevilson-de-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- <a href="https://www.skills.google/public_profiles/dba899ff-666e-4ba2-976d-66aaf2534f4c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Logo"style="width: 10%; height: auto;"></a>
+ <a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"
+         alt="Perfil Microsoft Learn"
+         style="width: 130px; height: auto;">
+</a>
     
   <a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"alt="Learn Microsoft Logo"style="width: 10%; height: auto;"></a>
   
- 
+ <a href="https://www.credly.com/users/adevilson-de-lima" target="_blank">
+    <img src="https://img.shields.io/badge/Credly%20Profile-Verified-%23000000?style=for-the-badge&logo=credly&logoColor=white" 
+         alt="Meu Perfil Credly" 
+         style="width: 130px; height: auto;">
+</a>
 
  ![Snake animation](https://github.com/diesellima1/diesellima1/blob/output/github-contribution-grid-snake.svg)
   
