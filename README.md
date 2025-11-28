@@ -6,8 +6,8 @@
 </div>
 
 🎓- Student of Computer Systems Development at Anhanguera University. I leverage my academic foundation to specialize in <br>
-☁️- Cloud Data Engineering (Google/Microsoft), <br>
-📊- system optimization, and GenAI-assisted coding. Committed to building robust, high-performance data architectures.<br>
+Cloud Data Engineering (Google/Microsoft), <br>
+system optimization, and GenAI-assisted coding. Committed to building robust, high-performance data architectures.<br>
 
 <div align="center">
   <a href="https://github.com/diesellima1">
