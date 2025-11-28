@@ -36,7 +36,7 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
 </a>
   
  <a href="https://www.credly.com/users/adevilson-de-lima" target="_blank">
-    <img src="http://www.w3.org/2000/svg" 
+    <img src="https://drive.google.com/file/d/1pBJDL518pzIQkaKkeN_43398JydqP4gR/view?usp=sharing" 
          alt="Meu Perfil Credly" 
          style="width: 130px; height: auto;">
 </a>
