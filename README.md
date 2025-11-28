@@ -32,10 +32,14 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
          style="width: 130px; height: auto;">
 </a>
     
-  <a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"alt="Learn Microsoft Logo"style="width: 10%; height: auto;"></a>
+<a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"
+         alt="Perfil Learn Microsof Skills"
+         style="width: 130px; height: auto;">
+</a>
   
  <a href="https://www.credly.com/users/adevilson-de-lima" target="_blank">
-    <img src="https://img.shields.io/badge/Credly%20Profile-Verified-%23000000?style=for-the-badge&logo=credly&logoColor=white" 
+    <img src="http://www.w3.org/2000/svg" 
          alt="Meu Perfil Credly" 
          style="width: 130px; height: auto;">
 </a>
