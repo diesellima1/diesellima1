@@ -28,7 +28,7 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
  <a href="https://www.skills.google/public_profiles/dba899ff-666e-4ba2-976d-66aaf2534f4c" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" 
          alt="Google Cloud Logo"
-         style="width: 50px; height: auto;"></a>
+         style="width: 50%; height: auto;"></a>
  
  ![Snake animation](https://github.com/diesellima1/diesellima1/blob/output/github-contribution-grid-snake.svg)
   
