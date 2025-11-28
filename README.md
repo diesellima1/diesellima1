@@ -31,7 +31,7 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
     
   <a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"alt="Learn Microsoft Logo"style="width: 10%; height: auto;"></a>
   
-  <a href="https://www.credly.com/users/adevilson-de-lima" target="_blank"><img src="https://www.credly.com/assets/credly-logo-white-NBKYDKYM.digested.svg"alt="Profile Credly Logo"style="width: 10%; height: auto;"></a>
+ 
 
  ![Snake animation](https://github.com/diesellima1/diesellima1/blob/output/github-contribution-grid-snake.svg)
   
