@@ -45,7 +45,13 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
 
 ## My GitHub Activity!
 
-![snake gif](https://github.com/diesellima1/diesellima1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diesellima1/diesellima1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diesellima1/diesellima1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diesellima1/diesellima1/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
 
 ## Connect with Me
 <div>
