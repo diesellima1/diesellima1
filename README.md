@@ -1,9 +1,9 @@
 <div>
   <img width="80%" src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hello%20World!&textBg=false&rotate=-1&section=header&fontAlign=50&fontAlignY=50&animation=fadeIn&descAlign=50&descAlignY=50"/>
 </div>
-<div>
-  <strong>Hi there Am I Adevilson de Lima or Diesel</strong>👋<br>
-</div>
+<h1>
+<strong>Hi there Am I Adevilson de Lima or Diesel</strong>👋<br>
+</h1>
 
 🎓- Student of Computer Systems Development at Anhanguera University. I leverage my academic foundation to specialize in <br>
 Cloud Data Engineering (Google/Microsoft), <br>
@@ -48,7 +48,7 @@ system optimization, and GenAI-assisted coding. Committed to building robust, hi
 </a>
 </div>
 
-## My GitHub Activity!
+# My GitHub Activity!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diesellima1/diesellima1/output/github-contribution-grid-snake-dark.svg">
