@@ -22,7 +22,9 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
  <a href="https://www.cursoemvideo.com/" target="_blank" rel="external"><img alt="Diesel-CV" src="https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s900-c-k-c0x00ffffff-no-rj"style="max-width: 100%;" height="50" align="right"></a>
     <a href="https://www.anhanguera.com/" target="_blank" rel="external"><img alt="Anhanguera" src="https://portalinstitucional-assets.azureedge.net/strapi/assets/Logo_Anhanguera_Horizontal_170x60px_1_d985ea5183.svg"style="max-width: 100%;" height="150" align="right"></a>
 <img alt="" src=""style="max-width: 100%;" height="150" align="right">
-  
+
+## Certifications & Badges
+  <div>
  <a href="https://www.skills.google/public_profiles/dba899ff-666e-4ba2-976d-66aaf2534f4c" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
          alt="Perfil Google Cloud Skills"
@@ -40,6 +42,8 @@ Sou um aluno do Curso em Vídeo com o professor Gustavo Guanabara e faculdade An
          alt="Meu Perfil Credly" 
          style="width: 130px; height: auto;">
 </a>
+</div>
+
 <div>
   <a href="https://linkedin.com/in/adevilson-de-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
