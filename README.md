@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img width="80%" src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hello%20World!&textBg=false&rotate=-1&section=header&fontAlign=50&fontAlignY=50&animation=fadeIn&descAlign=50&descAlignY=50"/>
 </div>
 <h1>
