@@ -28,7 +28,18 @@ system optimization, and GenAI-assisted coding. Committed to building robust, hi
     <a href="https://www.anhanguera.com" target="_blank" rel="external"><img alt="Anhanguera" src="https://portalinstitucional-assets.azureedge.net/strapi/assets/Logo_Anhanguera_Horizontal_170x60px_1_d985ea5183.svg"style="max-width: 100%;" height="150" align="right"></a>
 <img alt="" src="" style="max-width: 100%;" height="150" align="right">
 
-
+## Certifications & Badges
+<div align="center">
+  <a href="https://www.skills.google/public_profiles/dba899ff-666e-4ba2-976d-66aaf2534f4c" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Perfil Google Cloud Skills" width="130">
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="Perfil Learn Microsoft Skills" width="130">
+  </a>
+  <a href="https://www.credly.com/users/adevilson-de-lima" target="_blank">
+    <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" alt="Meu Perfil Credly" width="130">
+  </a>
+</div>
 
 # My GitHub Activity!
 
