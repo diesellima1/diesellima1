@@ -25,8 +25,7 @@ system optimization, and GenAI-assisted coding. Committed to building robust, hi
   <!-- <img align="center" alt="Diesel-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
  </div>
     <a href="https://www.anhanguera.com" target="_blank" rel="external"><img alt="Anhanguera" src="https://portalinstitucional-assets.azureedge.net/strapi/assets/Logo_Anhanguera_Horizontal_170x60px_1_d985ea5183.svg"style="max-width: 100%;" height="150" align="right"></a>
-<img alt="" src=""style="max-width: 100%;" height="150" align="right">
-
+#11
 # Certifications & Badges
   <div>
  <a href="https://www.skills.google/public_profiles/dba899ff-666e-4ba2-976d-66aaf2534f4c" target="_blank">
