@@ -30,10 +30,7 @@ system optimization, and GenAI-assisted coding. Committed to building robust, hi
 
 # Certifications & Badges
   <div>
- <a href="https://www.skills.google/public_profiles/dba899ff-666e-4ba2-976d-66aaf2534f4c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
-         alt="Perfil Google Cloud Skills"
-         style="width: 130px; height: auto;">
+ 
     
 <a href="https://learn.microsoft.com/pt-br/users/adevilsondelima-1842" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"
